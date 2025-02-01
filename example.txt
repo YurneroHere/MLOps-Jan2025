@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Modified content for G24AIT029 branch." 
+=======
+"Completel replaced content in G24AIT027." 
+>>>>>>> G24AIT027
